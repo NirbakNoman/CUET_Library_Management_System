@@ -1,0 +1,33 @@
+
+#st_admin
+{
+
+margin-top:220px;
+margin-bottom:150px;
+margin-right:10px;
+margin-left:450px;
+border:7px solid #a1a1a1;
+width:450px;
+border-radius:50px;
+font-weight:bold;
+float: left;
+}
+
+#button{
+border-radius:15px;
+width:100px;
+height:30px;
+background:#008080;
+font-weight:bold;
+font-size:20px;
+}
+
+
+#button1{
+border-radius:15px;
+width:230px;
+height:30px;
+background:#008080;
+font-weight:bold;
+font-size:20px;
+}

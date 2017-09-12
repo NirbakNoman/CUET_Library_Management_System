@@ -1,0 +1,74 @@
+
+#author_type_book
+{
+
+margin-top:50px;
+margin-bottom:50px;
+margin-right:10px;
+margin-left:450px;
+font-weight:bold;
+padding:9px 35px; 
+border:3px solid ;
+border-radius:30px;
+width:330px;
+background:#01A9DB;
+box-shadow: 7px 7px 7px;
+
+float: center;
+
+
+}
+
+#author_type_book2
+{
+
+margin-top:30px;
+margin-bottom:50px;
+margin-right:10px;
+margin-left:450px;
+	
+border:3px solid ;
+padding:9px 35px; 
+width:330px;
+border-radius:30px;
+font-weight:bold;
+background:#01A9DB;
+
+box-shadow: 7px 7px 7px;
+float: center;
+
+}
+
+#author_type_book3 
+{
+
+margin-top:30px;
+margin-bottom:150px;
+margin-right:10px;
+margin-left:450px;
+width:330px;
+
+background:#01A9DB;
+
+
+padding:9px 35px; 
+border:3px solid ;
+border-radius:30px;
+
+box-shadow: 7px 7px 7px;
+float: center;
+
+
+}
+
+
+
+
+#button{
+border-radius:25px;
+width:150px;
+height:40px;
+background:#008080;
+font-weight:bold;
+font-size:20px;
+}
